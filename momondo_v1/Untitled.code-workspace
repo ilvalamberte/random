@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "momondo_v1",
+			"path": "."
+		},
+		{
+			"name": "icons",
+			"path": "/Users/ilva/Downloads/2020-S-WebDev-master 6/Tue-11-Feb/icons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "momondo_v1"
+	}
+}
