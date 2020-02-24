@@ -1,21 +1,31 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
 
 a {
     text-decoration: none;
     color: white;
 }
 
+table {
+
+    margin: auto;
+    width: 100%;
+}
+
+
+.tc {
+    text-align: center;
+}
+
+.ma1 {
+
+
+    margin: 3em;
+}
+
 
 input {
-width: 100%;
+width: 70%;
 height: 45px;
-border: none;
-outline: none;
+
 border-radius: 5px;
 font-family: 'Montserrat', sans-serif;
 font-size: 100%;
@@ -25,7 +35,7 @@ padding-right: 10px;
 
 
 button {
-    width: 100%;
+    width: 30%;
 height: 45px;
 border: none;
 outline: none;
@@ -33,6 +43,7 @@ border-radius: 5px;
 font-family: 'Montserrat', sans-serif;
 font-size: 100%;
 text-align: center;
+margin-top: 10%;
 
 }
 
@@ -47,7 +58,11 @@ font-family: 'Montserrat', sans-serif;
 }
 
 
+table #table2 {
 
+    border-collapse:separate;
+    border-spacing:0 5px;
+}
 nav > a
 
 {
@@ -163,7 +178,12 @@ padding: 25px;
 
 
 }
+#flights {
 
+background-color: lightslategrey;
+color: black;
+
+} 
 
 #flight {
 padding: 20px 0px;
@@ -181,7 +201,11 @@ display: grid;
 }
 
 
+.flightBuy {
 
+    margin-right: 0;
+    margin-left: 60%;
+}
 #flight-buy {
 
 
